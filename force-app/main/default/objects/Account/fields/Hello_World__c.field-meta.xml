@@ -3,7 +3,7 @@
     <fullName>Hello_World__c</fullName>
     <externalId>false</externalId>
     <label>Hello World</label>
-    <length>254</length>
+    <length>255</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
